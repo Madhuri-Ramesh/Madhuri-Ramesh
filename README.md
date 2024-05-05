@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Madhuri
 - 👀 I’m interested in Python programming,Artificial Intelligence and Data science
-- 🌱 I’m currently learning Deploying Machine Learning Models in Production.
+
 
 
 <!---
